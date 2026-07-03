@@ -1,2 +1,2 @@
-# EenyMiney
+# EenyMineyGE
 Basic Game Engine
